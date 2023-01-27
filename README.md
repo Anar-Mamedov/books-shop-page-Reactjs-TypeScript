@@ -4,10 +4,14 @@
 
 ### http://localhost:3000/auth
 
+---
+
 ![Alt text](https://github.com/Anar-Mamedov/books-shop-page-Reactjs-TypeScript/blob/main/0.jpg)
 ![Alt text](https://github.com/Anar-Mamedov/books-shop-page-Reactjs-TypeScript/blob/main/1.jpg)
 ![Alt text](https://github.com/Anar-Mamedov/books-shop-page-Reactjs-TypeScript/blob/main/2.jpg)
 ![Alt text](https://github.com/Anar-Mamedov/books-shop-page-Reactjs-TypeScript/blob/main/3.jpg)
+
+---
 
 # Getting Started with Create React App
 
